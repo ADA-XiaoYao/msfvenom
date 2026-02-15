@@ -38,7 +38,7 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/ultimate-msf-toolkit.git
+git clone https://github.com/ADA-XiaoYao/msfvenom.git
 cd ultimate-msf-toolkit
 ```
 
@@ -302,7 +302,7 @@ sudo python main.py
 
 ## 📝 更新日志
 
-### v2.0.0 (2024-02-15)
+### v2.0.0 (2026-02-15)
 - 完全重构，模块化设计
 - 新增完整的数据库支持
 - 新增目标管理功能
@@ -332,8 +332,8 @@ sudo python main.py
 
 ## 👥 作者
 
-- **Ultimate MSF Team**
-- GitHub: https://github.com/yourusername/ultimate-msf-toolkit
+- **Alfanet**
+- GitHub: https://github.com/ADA-XiaoYao/msfvenom
 
 ## 🙏 致谢
 
@@ -343,8 +343,8 @@ sudo python main.py
 
 ## 📧 联系方式
 
-- Issues: https://github.com/yourusername/ultimate-msf-toolkit/issues
-- Email: your-email@example.com
+- Issues: https://github.com/ADA-XiaoYao/msfvenom/issues
+- Email: adaxyao@gmail.com
 
 ---
 
